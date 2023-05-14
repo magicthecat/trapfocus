@@ -1,0 +1,26 @@
+{
+  "name": "trapfocus",
+  "version": "1.0.0",
+  "description": "Vanilla JS Trap Focus Library",
+  "main": "trapfocus.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicthecat/trapfocus.git"
+  },
+  "keywords": [
+    "trapfocus",
+    "vanilla",
+    "react",
+    "vue",
+    "javascript"
+  ],
+  "author": "MagicTheCat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magicthecat/trapfocus/issues"
+  },
+  "homepage": "https://github.com/magicthecat/trapfocus#readme"
+}
