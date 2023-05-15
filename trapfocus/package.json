@@ -1,6 +1,6 @@
 {
   "name": "magicthecat-trapfocus",
-  "version": "1.7.0",
+  "version": "1.8.2",
   "description": "Vanilla JS Trap Focus Library",
   "main": "./trapfocus/index.js",
   "scripts": {
