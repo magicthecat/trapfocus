@@ -1,0 +1,29 @@
+{
+  "name": "trapfocus-refocus",
+  "version": "1.0.2",
+  "description": "A Zero-Dependency, tiny, pure javascript Focus Trap with refocussing functionality. Compatible with pure JS, React and Vue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicthecat/trapfocus.git#master"
+  },
+  "keywords": [
+    "trapfocus",
+    "focus",
+    "accessibility",
+    "vue",
+    "react",
+    "vanillaJS",
+    "javascript",
+    "focus trap"
+  ],
+  "author": "MagicTheCat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magicthecat/trapfocus/issues"
+  },
+  "homepage": "https://github.com/magicthecat/trapfocus/tree/master#readme"
+}

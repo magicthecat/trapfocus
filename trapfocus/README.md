@@ -1,4 +1,5 @@
 magicthecat-trapfocus
+---------------
 
 What is it for?
 ---------------
@@ -52,3 +53,11 @@ Examples
 --------
 
 See the following repo for vanilla js, react and vue examples: <https://github.com/magicthecat/magicthecat-trapfocus-examples>.
+
+Code Sandbox Examples can be found here:
+
+-   Vanilla JS: <https://codesandbox.io/s/magicthecat-trapfocus-vanilla-javascript-example-gxr5zb>
+
+-   Vue 3: <https://codesandbox.io/s/magicthecat-focustrap-vue-3-example-k2h05u>
+
+-   React: <https://codesandbox.io/s/magicthecat-trapfocus-react-example-7z9yki>
