@@ -1,17 +1,15 @@
-trapfocus-refocus
+trapfocus-refocus-typescript
 ---------------
 
 What is it for?
 ---------------
 
-This library is composed of a single Javascript function that creates a "focus trap" for a given element. By 'focus trap' we mean that it limits keyboard focus to a specific set of elements within that element. Once the focus trap is removed, the user will be 'refocussed' back to the element that acts as the trigger for the focus trap.
+This library is composed of a single Typescript function that creates a "focus trap" for a given element. By 'focus trap' we mean that it limits keyboard focus to a specific set of elements within that element. Once the focus trap is removed, the user will be 'refocussed' back to the element that acts as the trigger for the focus trap. It is the Typescript version of another package: <https://www.npmjs.com/package/trapfocus-refocus?activeTab=readme>
 
 Why?
 ----
 
 A lot of focus-trap libraries are either UI-framework specific or have a huge bundle size. This library hopes to provide a smaller alternative.It also aims to improve user experience by taking users back to the place 'where they started' before entering and exiting the focus trap. This is a slightly more complex (but still hopefully very simple) flavour of another package: <https://www.npmjs.com/package/magicthecat-trapfocus>.
-
-If you would prefer a typescript alternative, this can be found here: <https://www.npmjs.com/package/trapfocus-refocus-typescript>.
 
 Function Parameters
 -------------------
@@ -54,8 +52,8 @@ Examples
 
 Code Sandbox Examples can be found here:
 
--   Vanilla JS: <https://codesandbox.io/s/trapfocus-refocus-vanilla-js-example-frbxvo>
+-   Vanilla JS: <https://codesandbox.io/s/trapfocus-refocus-typescript-library-vanilla-js-example-yqsheb>
 
--   Vue 3: <https://codesandbox.io/s/trapfocus-refocus-vue-3-example-ic9bgc>
+-   Vue 3: <https://codesandbox.io/s/trapfocus-refocus-typescript-library-vue-3-example-k5ccwj?file=/src/App.vue>
 
--   React: <https://codesandbox.io/s/trapfocus-refocus-library-react-example-fzh7g1>
+-   React: <https://codesandbox.io/s/trapfocus-refocus-library-typescript-react-example-d7qhbd>
